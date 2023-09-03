@@ -1,1 +1,1 @@
-# jazz_music_generation
+# emogi_generation
